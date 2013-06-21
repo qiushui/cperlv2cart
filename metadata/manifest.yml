@@ -92,5 +92,5 @@ Install-Build-Required: false
 #Source-Md5: d916798a7e218f12b476bf1dee645f9d
 #Source-Url: https://github.com/chunyunchen/cperlv2cart/raw/master/cperlv2cart.tar.gz
 #Source-Url: https://github.com/chunyunchen/cperlv2cart/raw/master/cperlv2cart.zip
-Source-Url: https://github.com/chunyunchen/cperlv2cart1.git
+Source-Url: https://github.com/chunyunchen/cperlv2cart.git
 #Source-Url: git://github.com/chunyunchen/cperlv2cart.git
