@@ -91,7 +91,7 @@ Endpoints:
 Install-Build-Required: false
 #Source-Url: file:///root/cperlv2cart/
 #Source-Url: file:///root/cperlv2cart//root/test/cperlv2cart
-#MD5: a6563fcd4cff2e16e75510faa51d59f69bddd33b
+#Source-Md5: a6563fcd4cff2e16e75510faa51d59f69bddd33b
 #Source-Url: file:///root/test/cperlv2cart/
 #Source-Md5: d916798a7e218f12b476bf1dee645f9d
 Source-Url: https://github.com/chunyunchen/cperlv2cart/raw/master/cperlv2cart.tar.gz
