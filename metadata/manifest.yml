@@ -5,9 +5,9 @@ Description: "Perl is a general-purpose server-side scripting language originall
 Version: '5.10'
 License: "GPL v2"
 License-Url: http://dev.perl.org/licenses/
-Vendor: perl.org
+Vendor: Perl.org
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: _hunchen
+Cartridge-Vendor: 1_hunchen
 Categories:
   - service
   - perl
